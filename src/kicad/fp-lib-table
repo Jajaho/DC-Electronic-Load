@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DC Electronic Load")(type "KiCad")(uri "$(KIPRJMOD)/DC Electronic Load.pretty")(options "")(descr ""))
+)
